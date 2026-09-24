@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-//Scholarship Calculation
+////Scholarship Calculation based on percentage marks obtained by student.
 int main(){
 int annual;
 float percentage,Scholarship,netfee;
