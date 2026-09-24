@@ -1,4 +1,5 @@
 #include<stdio.h>
+// C program to calculate total marks, percentage and grade of a student based on marks obtained in 5 subjects.
 int main(){
     int Rollno;
     char name[20];
